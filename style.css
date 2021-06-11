@@ -1,0 +1,32 @@
+#header{
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace;
+	font-size: 20px;
+    color: rgb(255, 255, 255);
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+    padding: 10px;
+   
+}
+
+.description{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#search-results{
+    padding: 10px;
+    margin: auto;
+    font-size: 12px;
+    text-align: justify;
+    display: flex;
+    flex-wrap: wrap;
+}
+
